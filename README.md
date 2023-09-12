@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Maikel Reis, I'm an IT Ops guy that loves Code and scripts.
+
 <!--
 **maikelreis/maikelreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
