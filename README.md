@@ -3,9 +3,9 @@
 My name is Maikel Reis, I'm an IT Ops guy that loves Code and scripts.
 
  🔭 I’m currently working at Dell Technologies as Order Management Site Reliability Engineer <br>
- :school_satchel: I’m currently learning HTLM, CSS and JavaScript <br>
+ :school_satchel: Right now studying MBA in Data Science and Analytics <br>
 
- Right now I don't have much to share here in my repository, but stay connected to see how I progress  😜
+Here are some of my projects... Enjoy
 
 You can reach me at Linkedin: https://www.linkedin.com/in/maikelreis/
 
